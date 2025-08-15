@@ -1,0 +1,2 @@
+# coDelfosAnalytics_redshiftAdminQueries_Lib
+Backup/prueba de repositorio coDelfosAnalytics_redshiftAdminQueries_Lib
